@@ -1,19 +1,22 @@
-# steganografi
+# Steganografi
 
 ## Data Wadah
-Gambar OIP.jpeg
+Gambar: OIP.jpeg
 
 ## Data Tersembunyi
-"Data kelompok ini bersifat rahasia"
+Pesan: "Ini adalah data rahasia kelompok"
 
 ## Metode
-LSB (Least Significant Bit)
+Menggunakan metode LSB (Least Significant Bit)
 
 ## Proses
-Menggunakan StegOnline untuk menyisipkan pesan ke dalam gambar.
+1. Gambar diupload ke StegOnline
+2. Pesan dimasukkan
+3. Dilakukan proses embed data
+4. Gambar hasil didownload
 
 ## Hasil
-Gambar hasil mengandung pesan tersembunyi.
+File ppp (1).jpg merupakan gambar yang telah disisipi pesan rahasia.
 
-## Kesimpulan
-Steganografi digunakan untuk menyembunyikan data tanpa mengubah tampilan gambar.
+## Catatan
+Hasil gambar tetap dalam format JPEG karena keterbatasan tools (StegOnline), namun proses steganografi tetap berhasil.
